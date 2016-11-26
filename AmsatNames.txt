@@ -1,0 +1,116 @@
+; This file contains the AMSAT names of actual amateur radio 
+; satellites. The auxiliary file SatRename evaluates this file
+; to replace the satellite names used in Space-Track TLE
+; data files with their AMSAT names.
+;
+; Column #1 contains the 5-digit "Identification Number" used in
+; TLE files (data line #1, columns 3 - 7). 
+; 
+; Column #2 contains the satellite's 8-digit "International 
+; Designator" (data line #1, columns 10 - 17),
+; 
+; Column #3 contains the satellite's AMSAT name.
+; 
+; When a new satellie is available, it can be added to this list.
+; Note, that the "Identification Number" and the "International
+; Designator" must contain a fix number of digits. 
+;  
+;  
+07530 74089B   AO-07
+14129 83058B   AO-10
+20439 90005D   AO-16
+22825 93061C   AO-27
+26609 00072B   AO-40
+27605 02058A   AO-49
+28375 04025K   AO-51
+#
+38760 12048C   AENEAS
+#
+27844 03031E   CO-55
+27848 03031J   CO-57
+28895 05043F   CO-58
+32785 08021C   CO-65
+32791 08021J   CO-66
+#
+32789 08021G   DO-64
+#
+38855 98067CR  F-1
+25730 99025A   FENGYUN1
+38853 98067CP  FITSAT-1
+20480 90013C   FO-20
+24278 96046B   FO-29
+#
+25397 98043D   GO-32
+#
+36122 09072B   HO-68
+20580 90037B   HUBBLE
+#
+25544 98067A   ISS
+22826 93061D   IO-26
+#
+22077 92052B   KO-23
+22828 93061F   KO-25
+#
+20442 90005G   LO-19
+#
+26931 01043C   NO-44
+26932 01043D   NO-45
+25338 98030A   NOAA-15
+27453 02032A   NOAA-17
+28654 05018A   NOAA-18
+33591 09005A   NOAA-19
+21655 91056A   MET-3/5
+22782 93055A   MET-2/21
+40069 14037A   METEOR-M2
+26548 00057D   MO-46
+#
+25860 99039A   OKEAN-0
+23317 94066A   OKEAN-4
+26063 00004C   OO-38
+39131 13015B   OSSI-1
+#
+25520 98064B   PO-34
+#
+25394 98043A   RESURS
+18129 87054A   RS-10/11
+21089 91007A   RS-12/13
+23439 94085A   RS-15
+27939 03042A   RS-22
+32953 08025A   RS-30
+38051 11062C   RS-39
+38735 12041C   RS-40
+39492 13078C   RS-41
+39133 13015D   RS-43
+#
+23657 95046A   SICH-1
+25509 98061B   SO-33
+26545 00057A   SO-41
+26549 00057E   SO-42
+27607 02058C   SO-50
+35932 09051B   SWISSCUBE
+#
+38854 98067CQ  TechEdSat
+#
+21701 91063B   UARS
+14781 84021B   UO-11
+20437 90005B   UO-14
+21575 91050B   UO-22
+25693 99021A   UO-36
+#
+25396 98043C   TO-31
+#
+28650 05017B   VO-52
+#
+37855 11061F   E1P_M-CUBED
+#
+38856 98067CS  We-Wish
+20441 90005F   WO-18
+#
+39134 13015E   BEESAT-3
+39135 13015F   SOMP
+39136 13015G   BEESAT-2
+#
+39153 13018D   CUBEBUG-1
+#
+39161 13021C   ESTCUBE-1
+#
