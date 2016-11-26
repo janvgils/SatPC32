@@ -16,6 +16,12 @@ AmsatNames.txt<br />
  When a new satellie is available, it can be added to this list.<br />
  Note, that the "Identification Number" and the "International Designator" must contain a fix number of digits.<br />
 
+Doppler.sqf<br />
+
+ This file contains all data required for the CAT tuning to operate. CAT tuning only works for satellites<br />
+ whose frequencies are contained in the file. To use the program's tuning functions during Vfo operation, these<br />
+ data are also needed.<br />
+
 SatFiles.SQF<br />
   
  Group files that are used by the main SatPC32 program:<br />
