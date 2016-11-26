@@ -32,6 +32,19 @@ Prior.SQF<br />
  elevation reaches the minimum elevation angle, provided the satellite effectively comes into hearing range.<br />
 </blockquote>
 
+AosFiles.SQF<br />
+<blockquote>  
+ Group files that are use by the SatPC32 WinAos program:<br />
+  Standard.aos<br />
+  Calpoly.aos<br />
+  Camsat.aos<br />
+  MyKepler.aos<br />
+  NewLaunch.aos<br />
+  Research.aos<br />
+  Russian.aos<br />
+  Weather.aos<br />
+</blockquote>
+
 SatFiles.SQF<br />
 <blockquote>
  Group files that are used by the main SatPC32 program:<br />
@@ -61,17 +74,4 @@ WisFiles.SQF<br />
   Weather2.wis<br />
   Diverse.wis<br />
   Cubesat.wis<br />
-</blockquote>
-
-AosFiles.SQF<br />
-<blockquote>  
- Group files that are use by the SatPC32 WinAos program:<br />
-  Standard.aos<br />
-  Calpoly.aos<br />
-  Camsat.aos<br />
-  MyKepler.aos<br />
-  NewLaunch.aos<br />
-  Research.aos<br />
-  Russian.aos<br />
-  Weather.aos<br />
 </blockquote>
