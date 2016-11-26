@@ -10,26 +10,32 @@ AmsatNames.txt<br />
  The auxiliary file SatRename evaluates this file to replace the satellite
  names used in Space-Track TLE data files with their AMSAT names.
 
- Column #1 contains the 5-digit "Identification Number" used in TLE files (data line #1, columns 3 - 7).
- Column #2 contains the satellite's 8-digit "International Designator" (data line #1, columns 10 - 17),
+ Column #1 contains the 5-digit "Identification Number" used in TLE files 
+           (data line #1, columns 3 - 7).
+ Column #2 contains the satellite's 8-digit "International Designator" 
+           (data line #1, columns 10 - 17),
  Column #3 contains the satellite's AMSAT name.
 
- When a new satellie is available, it can be added to this list.<br />
- Note, that the "Identification Number" and the "International Designator" must contain a fix number of digits.<br />
+ When a new satellie is available, it can be added to this list.
+ Note, that the "Identification Number" and the "International Designator" 
+ must contain a fix number of digits.
  </pre></blockquote>
 
 Doppler.sqf<br />
 <blockquote><pre>
- This file contains all data required for the CAT tuning to operate. CAT tuning only works for satellites
- whose frequencies are contained in the file. To use the program's tuning functions during Vfo operation, these
- data are also needed.
+ This file contains all data required for the CAT tuning to operate. CAT 
+ tuning only works for satellites whose frequencies are contained in the file. 
+ To use the program's tuning functions during Vfo operation, these data are
+ also needed.
  </pre></blockquote>
 
 Prior.SQF<br />
 <blockquote><pre>
- The program performs automatic satellite switching for satellites with a priority setting. This works as follows:
- If no priority satellite is in hearing range, the program switches to a priority satellite as soon as that satellite's
- elevation reaches the minimum elevation angle, provided the satellite effectively comes into hearing range.
+ The program performs automatic satellite switching for satellites with a
+ priority setting. This works as follows: If no priority satellite is in
+ hearing range, the program switches to a priority satellite as soon as
+ that satellite's elevation reaches the minimum elevation angle, provided
+ the satellite effectively comes into hearing range.
  </pre></blockquote>
 
 AosFiles.SQF<br />
