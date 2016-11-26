@@ -3,6 +3,19 @@ SatPC32 Configuration files
 
 The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32<br />
 
+AmsatNames.txt<br />
+
+ This file contains the AMSAT names of actual amateur radio satellites.<br />
+ The auxiliary file SatRename evaluates this file to replace the satellite<br />
+ names used in Space-Track TLE data files with their AMSAT names.<br />
+
+ Column #1 contains the 5-digit "Identification Number" used in TLE files (data line #1, columns 3 - 7).<br />
+ Column #2 contains the satellite's 8-digit "International Designator" (data line #1, columns 10 - 17),<br />
+ Column #3 contains the satellite's AMSAT name.<br />
+
+ When a new satellie is available, it can be added to this list.<br />
+ Note, that the "Identification Number" and the "International Designator" must contain a fix number of digits.<br />
+
 SatFiles.SQF<br />
   
  Group files that are used by the main SatPC32 program:<br />
