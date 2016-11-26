@@ -1,46 +1,45 @@
 # satpc32-config
 SatPC32 Configuration files
 
-The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32
+The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32<br />
 
-SatFiles.SQF
+SatFiles.SQF<br />
   
- Group files that are used by the main SatPC32 program:
-  Automatic.sat
-  Standard.sat
-  1MyKepler.sat
-  1MyKepler.sat
-  2MyKepler.sat
-  3MyKepler.sat
-  4MyKepler.sat
-  5MyKepler.sat
-  Camsat.sat
-  Research.sat
-  Russian.sat
-  Temporary.sat
-  Weather.sat
+ Group files that are used by the main SatPC32 program:<br />
+  Automatic.sat<br />
+  Standard.sat<br />
+  1MyKepler.sat<br />
+  1MyKepler.sat<br />
+  2MyKepler.sat<br />
+  3MyKepler.sat<br />
+  4MyKepler.sat<br />
+  5MyKepler.sat<br />
+  Camsat.sat<br />
+  Research.sat<br />
+  Russian.sat<br />
+  Temporary.sat<br />
+  Weather.sat<br />
   
-WisFiles.SQF
+WisFiles.SQF<br />
   
- Group files that are used by the SatPC32 WinListen program
-  Standard.wis
-  PacSat.wis
-  SSBTransp.wis
-  Micro.wis
-  Weather1.wis
-  Weather2.wis
-  Diverse.wis
-  Cubesat.wis
+ Group files that are used by the SatPC32 WinListen program:<br />
+  Standard.wis<br />
+  PacSat.wis<br />
+  SSBTransp.wis<br />
+  Micro.wis<br />
+  Weather1.wis<br />
+  Weather2.wis<br />
+  Diverse.wis<br />
+  Cubesat.wis<br />
   
-AosFiles.SQF
+AosFiles.SQF<br />
   
- Group files that are use by the SatPC32 WinAos program
-  Standard.aos
-  Calpoly.aos
-  Camsat.aos
-  MyKepler.aos
-  NewLaunch.aos
-  Research.aos
-  Russian.aos
-  Weather.aos
-  
+ Group files that are use by the SatPC32 WinAos program:<br />
+  Standard.aos<br />
+  Calpoly.aos<br />
+  Camsat.aos<br />
+  MyKepler.aos<br />
+  NewLaunch.aos<br />
+  Research.aos<br />
+  Russian.aos<br />
+  Weather.aos<br />
