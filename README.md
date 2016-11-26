@@ -6,11 +6,12 @@ The Primairy SatPC32 config files can be found in:
   %APPDATA%\SatPC32
 
 Satellite Doppler control configuration file: Doppler.SQF
+
 ;
 ; Hints
-; This file contains all data required for the CAT tuning to operate. CAT tuning 
-; only works for satellites whose frequencies are contained in the file. 
-; To use the program's tuning functions during Vfo operation, these data are also 
+; This file contains all data required for the CAT tuning to operate. CAT tuning
+; only works for satellites whose frequencies are contained in the file.
+; To use the program's tuning functions during Vfo operation, these data are also
 ; needed.
 ; It is essential not to modify the file format, when you edit the file.
 ; Be careful not to add blanks or blank lines. For decimal markers, the point 
