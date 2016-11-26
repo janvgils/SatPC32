@@ -1,5 +1,10 @@
 # satpc32-config
-<a href="http://www.dk1tb.de/indexeng.htm" target="_blank">SatPC32</a> Configuration files
+Satellite tracking with <a href="http://www.dk1tb.de/indexeng.htm" target="_blank">SatPC32</a>.
+
+<img src="SatPC32-3D-image.PNG">
+
+SatPC32 Configuration files:
+
 <blockquote>
  The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32<br />
 </blockquote>
