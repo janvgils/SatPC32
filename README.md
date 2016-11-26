@@ -1,10 +1,11 @@
 # satpc32-config
 SatPC32 Configuration files
-
-The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32<br />
+<blockquote>
+ The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32<br />
+</blockquote>
 
 AmsatNames.txt<br />
-
+<blockquote>
  This file contains the AMSAT names of actual amateur radio satellites.<br />
  The auxiliary file SatRename evaluates this file to replace the satellite<br />
  names used in Space-Track TLE data files with their AMSAT names.<br />
@@ -15,15 +16,24 @@ AmsatNames.txt<br />
 
  When a new satellie is available, it can be added to this list.<br />
  Note, that the "Identification Number" and the "International Designator" must contain a fix number of digits.<br />
+</blockquote>
 
 Doppler.sqf<br />
-
+<blockquote>
  This file contains all data required for the CAT tuning to operate. CAT tuning only works for satellites<br />
  whose frequencies are contained in the file. To use the program's tuning functions during Vfo operation, these<br />
  data are also needed.<br />
+</blockquote>
+
+Prior.SQF<br />
+<blockquote>
+ The program performs automatic satellite switching for satellites with a priority setting. This works as follows:<br />
+ If no priority satellite is in hearing range, the program switches to a priority satellite as soon as that satellite's<br />
+ elevation reaches the minimum elevation angle, provided the satellite effectively comes into hearing range.<br />
+</blockquote>
 
 SatFiles.SQF<br />
-  
+<blockquote>
  Group files that are used by the main SatPC32 program:<br />
   Automatic.sat<br />
   Standard.sat<br />
@@ -38,9 +48,10 @@ SatFiles.SQF<br />
   Russian.sat<br />
   Temporary.sat<br />
   Weather.sat<br />
-  
+</blockquote>
+
 WisFiles.SQF<br />
-  
+<blockquote>  
  Group files that are used by the SatPC32 WinListen program:<br />
   Standard.wis<br />
   PacSat.wis<br />
@@ -50,9 +61,10 @@ WisFiles.SQF<br />
   Weather2.wis<br />
   Diverse.wis<br />
   Cubesat.wis<br />
-  
+</blockquote>
+
 AosFiles.SQF<br />
-  
+<blockquote>  
  Group files that are use by the SatPC32 WinAos program:<br />
   Standard.aos<br />
   Calpoly.aos<br />
@@ -62,3 +74,4 @@ AosFiles.SQF<br />
   Research.aos<br />
   Russian.aos<br />
   Weather.aos<br />
+</blockquote>
