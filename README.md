@@ -3,4 +3,4 @@ SatPC32 Configuration files
 
 The Primairy SatPC32 config files can be found in:
 
-%USER%\SatPC32
+  %APPDATA%\SatPC32
