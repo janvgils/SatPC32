@@ -6,7 +6,7 @@ Satellite tracking with <a href="http://www.dk1tb.de/indexeng.htm" target="_blan
 SatPC32 Configuration files:
 
 <blockquote>
- The Primairy SatPC32 config files can be found in: %APPDATA%\SatPC32<br />
+ The Primairy SatPC32 config files can be found in: %APPDATA%\Roaming\SatPC32<br />
 </blockquote>
 
 AmsatNames.txt<br />
